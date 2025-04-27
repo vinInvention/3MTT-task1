@@ -1,2 +1,2 @@
 # 3MTT-task1
-This is the first mini project we were given to solve in 3MTT software development course
+This project test our skill in the use of Semantic Html
